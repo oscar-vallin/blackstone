@@ -3,12 +3,14 @@ This project will allow us to register and authenticate, once authenticated it w
 
 ## Installation
 To install and run this proyect just type and execute
+-cd server
+-cd client
 
 *npm install* or *yarn install*
 
 ### Command to start project with Client and Server
 
-cd server
+
 npm run dev
 
 ### Command to run unit tests
